@@ -704,19 +704,24 @@ class AudioTranscriberDiarizer:
                                               segment_padding=segment_padding)
         self.enhancement_level = enhancement_level
         self.similarity_threshold = similarity_threshold
+        self.metrics: Dict[str, float] = {}
         self.profile_manager = SpeakerProfileManager()
         
     def process_audio(self, audio_path: str, min_speakers: int = 1, 
                      max_speakers: int = 10) -> List[TranscriptSegment]:
         """Process audio file for transcription and diarization."""
         logger.info(f"Processing audio file: {audio_path}")
+        metrics: Dict[str, float] = {}
+        t0_all = time.time()
         
         # Load and preprocess audio
+        t0 = time.time()
         audio_tensor, sample_rate = self.audio_processor.load_audio(audio_path)
+        metrics["load_audio_s"] = time.time() - t0
         
         # Optional enhancement to stabilize recognition
-        start_enh = time.time()
         if self.enhancement_level and self.enhancement_level != "off":
+            start_enh = time.time()
             try:
                 use_denoise = (self.enhancement_level == "medium")
                 enhanced_np = self.audio_processor.enhance_audio(
@@ -727,30 +732,43 @@ class AudioTranscriberDiarizer:
             except Exception as e:
                 logger.warning(f"Audio enhancement failed, proceeding with raw audio: {str(e)}")
             finally:
-                logger.info(f"Enhancement took {time.time() - start_enh:.2f}s")
+                enh_dur = time.time() - start_enh
+                metrics["enhance_s"] = enh_dur
+                logger.info(f"Enhancement took {enh_dur:.2f}s")
+        else:
+            metrics["enhance_s"] = 0.0
         
         # Detect language once and lock it in transcriber (if not provided)
         if self.transcriber.language is None:
+            t0 = time.time()
             self.transcriber.detect_and_set_language(audio_tensor, sample_rate)
+            metrics["language_detect_s"] = time.time() - t0
+        else:
+            metrics["language_detect_s"] = 0.0
         
         # Perform speaker diarization
         logger.info("Performing speaker diarization...")
+        t0 = time.time()
         diarization = self.diarizer.diarize(audio_path, min_speakers, max_speakers)
+        metrics["diarization_s"] = time.time() - t0
         
         # Map temporary diarization labels to persistent speaker IDs and update profiles
         try:
+            t0 = time.time()
             temp_to_persistent = self.profile_manager.process_diarization_with_profiles(
                 diarization, audio_path,
                 similarity_threshold=getattr(self, "similarity_threshold", 0.72)
             )
+            metrics["profiles_map_s"] = time.time() - t0
         except Exception as e:
             logger.warning(f"Speaker profile processing failed: {str(e)}")
             temp_to_persistent = {}
+            metrics["profiles_map_s"] = 0.0
         
         # Process each speaker segment
         logger.info("Transcribing speaker segments...")
         segments = []
-        
+        t0 = time.time()
         for segment, _, speaker in diarization.itertracks(yield_label=True):
             start_time = segment.start
             end_time = segment.end
@@ -778,6 +796,14 @@ class AudioTranscriberDiarizer:
         
         # Sort segments by start time
         segments.sort(key=lambda x: x.start_time)
+        metrics["transcription_s"] = time.time() - t0
+        metrics["segments"] = float(len(segments))
+        try:
+            metrics["speakers_detected"] = float(len(diarization.labels()))
+        except Exception:
+            metrics["speakers_detected"] = 0.0
+        metrics["process_audio_s"] = time.time() - t0_all
+        self.metrics = metrics
         logger.info(f"Processing complete. Generated {len(segments)} transcript segments.")
         
         return segments
@@ -1208,6 +1234,18 @@ def main():
         logger.info(f"- Total segments: {len(segments)}")
         logger.info(f"- Unique speakers: {unique_speakers}")
         logger.info(f"- Output saved: {args.output}")
+
+        # Final metrics
+        m = getattr(transcriber, 'metrics', {})
+        if m:
+            logger.info("Timing Metrics:")
+            logger.info(f"- Load audio: {m.get('load_audio_s', 0):.2f}s")
+            logger.info(f"- Enhancement: {m.get('enhance_s', 0):.2f}s (level={getattr(transcriber, 'enhancement_level', 'off')})")
+            logger.info(f"- Language detect: {m.get('language_detect_s', 0):.2f}s")
+            logger.info(f"- Diarization: {m.get('diarization_s', 0):.2f}s (speakers={int(m.get('speakers_detected', 0))})")
+            logger.info(f"- Profiles mapping: {m.get('profiles_map_s', 0):.2f}s (threshold={getattr(transcriber, 'similarity_threshold', 0.72):.2f})")
+            logger.info(f"- Transcription: {m.get('transcription_s', 0):.2f}s (segments={int(m.get('segments', 0))})")
+            logger.info(f"- Total process_audio: {m.get('process_audio_s', 0):.2f}s")
         
     except Exception as e:
         logger.error(f"Error during processing: {str(e)}")
