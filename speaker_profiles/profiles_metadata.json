@@ -1,0 +1,22 @@
+{
+  "total_profiles": 2,
+  "last_updated": "2025-08-26T23:59:47.045392",
+  "speakers": {
+    "Speaker_001": {
+      "name": null,
+      "files_count": 1,
+      "total_speaking_time": 53.49375000000001,
+      "segment_count": 13,
+      "created_at": "2025-08-26T23:59:47.028852",
+      "last_seen": "2025-08-26T23:59:47.043893"
+    },
+    "Speaker_002": {
+      "name": null,
+      "files_count": 1,
+      "total_speaking_time": 30.003750000000014,
+      "segment_count": 11,
+      "created_at": "2025-08-26T23:59:47.043660",
+      "last_seen": "2025-08-26T23:59:47.043901"
+    }
+  }
+}

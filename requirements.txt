@@ -1,0 +1,9 @@
+openai-whisper
+pyannote.audio
+torch
+torchaudio
+librosa
+soundfile
+scikit-learn
+scipy
+speechbrain
