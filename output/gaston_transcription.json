@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "generated_at": "2025-08-27T00:05:15.207412",
+    "total_segments": 22,
+    "speakers": [
+      "Speaker_002",
+      "Speaker_001"
+    ]
+  },
+  "segments": [
+    {
+      "start_time": 0.85784375,
+      "end_time": 6.61221875,
+      "speaker": "Speaker_001",
+      "text": "y que hipótesis estas manejando?",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 0.97596875,
+      "end_time": 1.53284375,
+      "speaker": "Speaker_002",
+      "text": "¿Y qué",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 7.472843750000001,
+      "end_time": 10.695968750000002,
+      "speaker": "Speaker_001",
+      "text": "No sabemos, no lo sé.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 11.15159375,
+      "end_time": 15.218468750000003,
+      "speaker": "Speaker_001",
+      "text": "no tengo como no tengo tengo tres líneas ponele",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 15.84284375,
+      "end_time": 20.14596875,
+      "speaker": "Speaker_001",
+      "text": "dos o tres líneas te diría, pero no tengo nada certero, no te puedo decir algo porque...",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 21.512843750000002,
+      "end_time": 22.10346875,
+      "speaker": "Speaker_001",
+      "text": "Que sea.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 22.39034375,
+      "end_time": 23.26784375,
+      "speaker": "Speaker_001",
+      "text": "esa es la realidad",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 23.402843750000002,
+      "end_time": 24.49971875,
+      "speaker": "Speaker_001",
+      "text": "No lo sé.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 25.52909375,
+      "end_time": 25.96784375,
+      "speaker": "Speaker_001",
+      "text": "Bueno, sí.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 26.27159375,
+      "end_time": 29.22471875,
+      "speaker": "Speaker_001",
+      "text": "Sí, hay dos o tres líneas que estamos investigando, pero no...",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 30.50721875,
+      "end_time": 30.91221875,
+      "speaker": "Speaker_001",
+      "text": "No lo sé.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 30.91221875,
+      "end_time": 30.92909375,
+      "speaker": "Speaker_002",
+      "text": "No lo sé.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 32.852843750000005,
+      "end_time": 36.649718750000005,
+      "speaker": "Speaker_002",
+      "text": "Ayer salió un TikTok temprano de que habían encontrado al López López.",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 38.48909375,
+      "end_time": 39.01221875,
+      "speaker": "Speaker_002",
+      "text": "¿En dónde?",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 39.34971875,
+      "end_time": 41.391593750000006,
+      "speaker": "Speaker_002",
+      "text": "en TikTok",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 41.627843750000004,
+      "end_time": 44.90159375,
+      "speaker": "Speaker_002",
+      "text": "se vieron gente de, no sé, de fuerzas federales llevando un nene y...",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 45.306593750000005,
+      "end_time": 48.09096875,
+      "speaker": "Speaker_002",
+      "text": "empezar a viralizar y esta mañana me llamaban y yo no, nada que ver",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 48.49596875,
+      "end_time": 49.710968750000006,
+      "speaker": "Speaker_002",
+      "text": "No sé por qué suelen esas cosas",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 50.95971875,
+      "end_time": 51.719093750000006,
+      "speaker": "Speaker_001",
+      "text": "No, a ver...",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 51.938468750000006,
+      "end_time": 54.21659375,
+      "speaker": "Speaker_001",
+      "text": "A ver, qué sé yo, lo de redes, viste...",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 57.962843750000005,
+      "end_time": 58.047218750000006,
+      "speaker": "Speaker_002",
+      "text": "eran para...",
+      "confidence": null,
+      "speaker_confidence": null
+    },
+    {
+      "start_time": 58.11471875,
+      "end_time": 58.82346875,
+      "speaker": "Speaker_002",
+      "text": "para...",
+      "confidence": null,
+      "speaker_confidence": null
+    }
+  ]
+}
