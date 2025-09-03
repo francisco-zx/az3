@@ -1,0 +1,2776 @@
+{
+  "file": "antenas-claro.pdf",
+  "num_tables": 9,
+  "tables": [
+    {
+      "page": 1,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "pais",
+        "localidad",
+        "departamento",
+        "provincia"
+      ],
+      "rows": [
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PEDRO R. FERNANDEZ",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOBERNADOR JUAN E. MARTINEZ",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "LAGUNA BRAVA",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "RESISTENCIA",
+          "SAN FERNANDO",
+          "CHACO"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAN LUIS DEL PALMAR",
+          "SAN LUIS DEL PALMAR",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "LAGUNA BRAVA",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SALADAS",
+          "SALADAS",
+          "CORRIENTES"
+        ]
+      ]
+    },
+    {
+      "page": 2,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "argentina",
+        "bella vista",
+        "bella vista",
+        "corrientes"
+      ],
+      "rows": [
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PEDRO R. FERNANDEZ",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CHAVARRIA",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PERUGORRIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "MERCEDES",
+          "MERCEDES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PEDRO R. FERNANDEZ",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SALADAS",
+          "SALADAS",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAN LORENZO",
+          "SALADAS",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "RIACHUELO",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "MERCEDES",
+          "MERCEDES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BONPLAND",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "MERCEDES",
+          "MERCEDES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BONPLAND",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BONPLAND",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "COLONIA LIBERTAD",
+          "MONTE CASEROS",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CHAVARRIA",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CHAVARRIA",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "LAVALLE",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "RESISTENCIA",
+          "SAN FERNANDO",
+          "CHACO"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAUCE",
+          "SAUCE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "MERCEDES",
+          "MERCEDES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BONPLAND",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "9 DE JULIO",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "BELLA VISTA",
+          "BELLA VISTA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "LAGUNA BRAVA",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOBERNADOR JUAN E. MARTINEZ",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SALADAS",
+          "SALADAS",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "RIACHUELO",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SANTA LUCIA",
+          "LAVALLE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "SAN LORENZO",
+          "SALADAS",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PEDRO R. FERNANDEZ",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CORRIENTES",
+          "CAPITAL",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "CURUZU CUATIA",
+          "CURUZU CUATIA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PASO DE LOS LIBRES",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "GOYA",
+          "GOYA",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "COLONIA LIBERTAD",
+          "MONTE CASEROS",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PEDRO R. FERNANDEZ",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "FELIPE YOFRE",
+          "MERCEDES",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PEDRO R. FERNANDEZ",
+          "SAN ROQUE",
+          "CORRIENTES"
+        ],
+        [
+          "ARGENTINA",
+          "PARADA PUCHETA",
+          "PASO DE LOS LIBRES",
+          "CORRIENTES"
+        ]
+      ]
+    },
+    {
+      "page": 5,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "calle",
+        "numero",
+        "latitud",
+        "longitud",
+        "radio de cobertura (km)"
+      ],
+      "rows": [
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "2.106"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "9.126"
+        ],
+        [
+          "Calle p niveiro",
+          "730",
+          "-29.150703",
+          "-59.247809",
+          "3.51"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "9.126"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "2.106"
+        ],
+        [
+          "Calle p niveiro",
+          "730",
+          "-29.150703",
+          "-59.247809",
+          "2.106"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "7.02"
+        ],
+        [
+          "Pago largo y B. de Cepeda",
+          "S/N",
+          "-29.124208",
+          "-59.254762",
+          "7.956"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "10.296"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "35.2"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "6.05"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "3.51"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "3.011"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "15.807"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "10.296"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "20"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "3.042"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "7.956"
+        ],
+        [
+          "D.HARDOY Y CHICLANA",
+          "S/N",
+          "-29.796389",
+          "-58.057778",
+          "3.51"
+        ],
+        [
+          "D.HARDOY Y CHICLANA",
+          "S/N",
+          "-29.796389",
+          "-58.057778",
+          "1.404"
+        ],
+        [
+          "Ing Magno Tvethe",
+          "700",
+          "-28.752920",
+          "-58.656000",
+          "35.2"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "9.126"
+        ],
+        [
+          "Calle belgrano",
+          "772",
+          "-28.911696",
+          "-58.936821",
+          "17.05"
+        ],
+        [
+          "Moreno Acuna",
+          "1100",
+          "-27.499811",
+          "-58.719477",
+          "4.914"
+        ],
+        [
+          "Av. Gobernador Ruiz Esq. Estados Unidos",
+          "S/N",
+          "-27.467838",
+          "-58.812733",
+          "2.106"
+        ],
+        [
+          "Avenida Lavalle",
+          "755",
+          "-27.439396",
+          "-58.986537",
+          "1.404"
+        ],
+        [
+          "Av. Gobernador Ruiz Esq. Estados Unidos",
+          "S/N",
+          "-27.467838",
+          "-58.812733",
+          "2.106"
+        ],
+        [
+          "Perú esquina Bolivar",
+          "S/N",
+          "-27.472235",
+          "-58.821673",
+          "2.106"
+        ],
+        [
+          "Perú esquina Bolivar",
+          "S/N",
+          "-27.472235",
+          "-58.821673",
+          "1.17"
+        ],
+        [
+          "Calle Gob. Rolon y Pampin",
+          "S/N",
+          "-27.461896",
+          "-58.822407",
+          "1.17"
+        ],
+        [
+          "Sarmiento e/Av J.Romero y Aviad.Argüello",
+          "S/N",
+          "-27.510301",
+          "-58.556233",
+          "7.02"
+        ],
+        [
+          "RP 5 (intersección calle César Alvarez)",
+          "Km 1",
+          "-27.486515",
+          "-58.770954",
+          "2.106"
+        ],
+        [
+          "",
+          "s/n",
+          "-27.480311",
+          "-58.796037",
+          "2.574"
+        ],
+        [
+          "Ruta Nacional 12",
+          "Km 940",
+          "-28.246114",
+          "-58.703985",
+          "6.084"
+        ]
+      ]
+    },
+    {
+      "page": 6,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "cordoba y 25 de mayo",
+        "s/n",
+        "-28.512372",
+        "-59.044944",
+        "1.638"
+      ],
+      "rows": [
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "1.404"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "16.559"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "14.602"
+        ],
+        [
+          "Esq. Placido Martinez y Entre Rios",
+          "S/N",
+          "-29.708224",
+          "-57.101564",
+          "2.028"
+        ],
+        [
+          "Esq. Placido Martinez y Entre Rios",
+          "S/N",
+          "-29.708224",
+          "-57.101564",
+          "1.872"
+        ],
+        [
+          "Esq. Placido Martinez y Entre Rios",
+          "S/N",
+          "-29.708224",
+          "-57.101564",
+          "4.914"
+        ],
+        [
+          "Coronel Reguera",
+          "800",
+          "-29.714853",
+          "-57.090076",
+          "1.17"
+        ],
+        [
+          "Mendoza",
+          "742",
+          "-29.710580",
+          "-57.080473",
+          "4.914"
+        ],
+        [
+          "Mendoza",
+          "742",
+          "-29.710580",
+          "-57.080473",
+          "0.936"
+        ],
+        [
+          "Mendoza",
+          "742",
+          "-29.710580",
+          "-57.080473",
+          "1.248"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "2.652"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "1.638"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "20"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "35.2"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "35.2"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "3"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "1.482"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "7.02"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "1.716"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "6.084"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "9.126"
+        ],
+        [
+          "RP27 (200m al NE de Calle Belgrano)",
+          "Km 81",
+          "-28.509583",
+          "-59.026525",
+          "2.106"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.988572",
+          "-59.101871",
+          "7.956"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "9.126"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "20"
+        ],
+        [
+          "Ing Magno Tvethe",
+          "700",
+          "-28.752920",
+          "-58.656000",
+          "17.05"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "20"
+        ],
+        [
+          "RUTA NAC 123",
+          "Km 49,4",
+          "-28.956778",
+          "-58.593982",
+          "2.028"
+        ],
+        [
+          "Ruta Nac. 119",
+          "Km 81",
+          "-29.393478",
+          "-58.187792",
+          "20"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "11.592"
+        ],
+        [
+          "Monte Caseros y R. Perazzo",
+          "S/N",
+          "-29.785028",
+          "-58.064083",
+          "4.914"
+        ],
+        [
+          "Monte Caseros y R. Perazzo",
+          "S/N",
+          "-29.785028",
+          "-58.064083",
+          "3.042"
+        ],
+        [
+          "Prol.Caa Guazu (400m al NE de V.Barboza)",
+          "S/N",
+          "-29.787981",
+          "-58.033625",
+          "12"
+        ],
+        [
+          "Rivadavia",
+          "554",
+          "-29.182916",
+          "-58.077054",
+          "3"
+        ],
+        [
+          "Ing Magno Tvethe",
+          "700",
+          "-28.752920",
+          "-58.656000",
+          "3.85"
+        ],
+        [
+          "Ruta Nacional 12",
+          "Km 940",
+          "-28.246114",
+          "-58.703985",
+          "12"
+        ],
+        [
+          "Calle Sarmiento, altura de RN12 Km 957",
+          "Km 957",
+          "-28.130162",
+          "-58.764117",
+          "9.126"
+        ],
+        [
+          "",
+          "s/n",
+          "-27.579022",
+          "-58.737025",
+          "7.02"
+        ],
+        [
+          "Av. Gobernador Ruiz Esq. Estados Unidos",
+          "S/N",
+          "-27.467838",
+          "-58.812733",
+          "1.482"
+        ],
+        [
+          "",
+          "s/n",
+          "-27.475820",
+          "-58.840240",
+          "0.858"
+        ],
+        [
+          "Av. Gobernador Ruiz Esq. Estados Unidos",
+          "S/N",
+          "-27.467838",
+          "-58.812733",
+          "0.858"
+        ],
+        [
+          "Renacimiento esquina Verona",
+          "S/N",
+          "-27.494421",
+          "-58.792667",
+          "2.106"
+        ],
+        [
+          "",
+          "s/n",
+          "-27.480311",
+          "-58.796037",
+          "3.042"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "1.248"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "3.822"
+        ]
+      ]
+    },
+    {
+      "page": 7,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "",
+        "s/n",
+        "-28.520477",
+        "-59.048652",
+        "1.794"
+      ],
+      "rows": [
+        [
+          "",
+          "s/n",
+          "-28.520477",
+          "-59.048652",
+          "2.184"
+        ],
+        [
+          "Rivadavia",
+          "554",
+          "-29.182916",
+          "-58.077054",
+          "2.012"
+        ],
+        [
+          "Ruta Nac 14",
+          "Km 469",
+          "-29.818798",
+          "-57.456087",
+          "20"
+        ],
+        [
+          "Rivadavia",
+          "554",
+          "-29.182916",
+          "-58.077054",
+          "3"
+        ],
+        [
+          "Ruta Nac 14",
+          "Km 469",
+          "-29.818798",
+          "-57.456087",
+          "35.2"
+        ],
+        [
+          "Coronel Reguera",
+          "800",
+          "-29.714853",
+          "-57.090076",
+          "1.014"
+        ],
+        [
+          "RUTA NAC 14",
+          "0-0",
+          "-29.717809",
+          "-57.203932",
+          "9.126"
+        ],
+        [
+          "Ruta Nac 14",
+          "Km 469",
+          "-29.818798",
+          "-57.456087",
+          "16.559"
+        ],
+        [
+          "RP 25 (2Km al Norte de RP 127)",
+          "Km 27",
+          "-30.055426",
+          "-57.802726",
+          "9.126"
+        ],
+        [
+          "RUTA NAC 123",
+          "Km 49,4",
+          "-28.956778",
+          "-58.593982",
+          "12"
+        ],
+        [
+          "RUTA NAC 123",
+          "Km 49,4",
+          "-28.956778",
+          "-58.593982",
+          "12"
+        ],
+        [
+          "Esq. J.R. Vidal y Sgto Cabral",
+          "S/N",
+          "-29.024590",
+          "-59.183000",
+          "7.956"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "12"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "1.56"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "1.404"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "1.56"
+        ],
+        [
+          "Avenida Lavalle",
+          "755",
+          "-27.439396",
+          "-58.986537",
+          "1.404"
+        ],
+        [
+          "Esq. Placido Martinez y Entre Rios",
+          "S/N",
+          "-29.708224",
+          "-57.101564",
+          "4.914"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "2.652"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "1.638"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "3.042"
+        ],
+        [
+          "Moreno esquina Córdoba",
+          "S/N",
+          "-30.086138",
+          "-58.791895",
+          "7.956"
+        ],
+        [
+          "Rivadavia",
+          "554",
+          "-29.182916",
+          "-58.077054",
+          "2.012"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "6.05"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "1.638"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "7.02"
+        ],
+        [
+          "Cordoba y 25 de Mayo",
+          "S/N",
+          "-28.512372",
+          "-59.044944",
+          "6.084"
+        ],
+        [
+          "Ruta Nac 14",
+          "Km 469",
+          "-29.818798",
+          "-57.456087",
+          "35.2"
+        ],
+        [
+          "D.HARDOY Y CHICLANA",
+          "S/N",
+          "-29.796389",
+          "-58.057778",
+          "1.404"
+        ],
+        [
+          "D.HARDOY Y CHICLANA",
+          "S/N",
+          "-29.796389",
+          "-58.057778",
+          "3.51"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "1.56"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "7.02"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "9.126"
+        ],
+        [
+          "",
+          "s/n",
+          "-29.139648",
+          "-59.261661",
+          "2.106"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "12"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "12"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "9.126"
+        ],
+        [
+          "Ruta Provincial Nro. 27",
+          "Km 902",
+          "-28.974181",
+          "-59.100953",
+          "9.126"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "35.2"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "35.2"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "35.2"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "10.296"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "10.296"
+        ],
+        [
+          "Tacuari",
+          "500",
+          "-28.838936",
+          "-58.821370",
+          "2.106"
+        ],
+        [
+          "RP27 (200m al NE de Calle Belgrano)",
+          "Km 81",
+          "-28.509583",
+          "-59.026525",
+          "2.106"
+        ]
+      ]
+    },
+    {
+      "page": 8,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "sarmiento e/av j.romero y aviad.argüello",
+        "s/n",
+        "-27.510301",
+        "-58.556233",
+        "7.02"
+      ],
+      "rows": [
+        [
+          "Moreno Acuna",
+          "1100",
+          "-27.499811",
+          "-58.719477",
+          "4.914"
+        ],
+        [
+          "Mendoza",
+          "742",
+          "-29.710580",
+          "-57.080473",
+          "4.914"
+        ],
+        [
+          "Prol.Caa Guazu (400m al NE de V.Barboza)",
+          "S/N",
+          "-29.787981",
+          "-58.033625",
+          "12"
+        ],
+        [
+          "Calle belgrano",
+          "772",
+          "-28.911696",
+          "-58.936821",
+          "17.05"
+        ],
+        [
+          "Pago largo y B. de Cepeda",
+          "S/N",
+          "-29.124208",
+          "-59.254762",
+          "7.956"
+        ],
+        [
+          "Ruta Nacional 12",
+          "Km 940",
+          "-28.246114",
+          "-58.703985",
+          "6.084"
+        ],
+        [
+          "RUTA NAC 14",
+          "0-0",
+          "-29.717809",
+          "-57.203932",
+          "9.126"
+        ],
+        [
+          "",
+          "s/n",
+          "-27.579022",
+          "-58.737025",
+          "7.02"
+        ],
+        [
+          "",
+          "s/n",
+          "-28.988572",
+          "-59.101871",
+          "7.956"
+        ],
+        [
+          "Perú esquina Bolivar",
+          "S/N",
+          "-27.472235",
+          "-58.821673",
+          "2.106"
+        ],
+        [
+          "Perú esquina Bolivar",
+          "S/N",
+          "-27.472235",
+          "-58.821673",
+          "1.17"
+        ],
+        [
+          "",
+          "s/n",
+          "-27.480311",
+          "-58.796037",
+          "3.042"
+        ],
+        [
+          "Renacimiento esquina Verona",
+          "S/N",
+          "-27.494421",
+          "-58.792667",
+          "2.106"
+        ],
+        [
+          "Av. Gobernador Ruiz Esq. Estados Unidos",
+          "S/N",
+          "-27.467838",
+          "-58.812733",
+          "2.106"
+        ],
+        [
+          "Av. Gobernador Ruiz Esq. Estados Unidos",
+          "S/N",
+          "-27.467838",
+          "-58.812733",
+          "2.106"
+        ],
+        [
+          "Calle Sarmiento, altura de RN12 Km 957",
+          "Km 957",
+          "-28.130162",
+          "-58.764117",
+          "9.126"
+        ],
+        [
+          "Ing Magno Tvethe",
+          "700",
+          "-28.752920",
+          "-58.656000",
+          "3.85"
+        ],
+        [
+          "Calle Gob. Rolon y Pampin",
+          "S/N",
+          "-27.461896",
+          "-58.822407",
+          "1.17"
+        ],
+        [
+          "Monte Caseros y R. Perazzo",
+          "S/N",
+          "-29.785028",
+          "-58.064083",
+          "3.042"
+        ],
+        [
+          "Monte Caseros y R. Perazzo",
+          "S/N",
+          "-29.785028",
+          "-58.064083",
+          "4.914"
+        ],
+        [
+          "Coronel Reguera",
+          "800",
+          "-29.714853",
+          "-57.090076",
+          "1.014"
+        ],
+        [
+          "Coronel Reguera",
+          "800",
+          "-29.714853",
+          "-57.090076",
+          "1.17"
+        ],
+        [
+          "Calle p niveiro",
+          "730",
+          "-29.150703",
+          "-59.247809",
+          "2.106"
+        ],
+        [
+          "Calle p niveiro",
+          "730",
+          "-29.150703",
+          "-59.247809",
+          "3.51"
+        ],
+        [
+          "RP 25 (2Km al Norte de RP 127)",
+          "Km 27",
+          "-30.055426",
+          "-57.802726",
+          "9.126"
+        ],
+        [
+          "S/D",
+          "S/D",
+          "-28,753921",
+          "-58,650062",
+          "12"
+        ],
+        [
+          "S/D",
+          "S/D",
+          "-29,106643",
+          "-58,338575",
+          "12"
+        ],
+        [
+          "S/D",
+          "S/D",
+          "-28,753921",
+          "-58,650062",
+          "12"
+        ],
+        [
+          "S/D",
+          "S/D",
+          "-29,900167",
+          "-57,603122",
+          "20"
+        ]
+      ]
+    },
+    {
+      "page": 9,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "azimuth",
+        "angulo de apertura"
+      ],
+      "rows": [
+        [
+          "240",
+          "69"
+        ],
+        [
+          "60",
+          "68"
+        ],
+        [
+          "350",
+          "67"
+        ],
+        [
+          "120",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "270",
+          "67"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "30",
+          "67"
+        ],
+        [
+          "100",
+          "69"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "190",
+          "67"
+        ],
+        [
+          "155",
+          "68"
+        ],
+        [
+          "240",
+          "60"
+        ],
+        [
+          "240",
+          "70"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "75",
+          "69"
+        ],
+        [
+          "170",
+          "69"
+        ],
+        [
+          "330",
+          "69"
+        ],
+        [
+          "60",
+          "69"
+        ],
+        [
+          "120",
+          "69"
+        ],
+        [
+          "210",
+          "63.7"
+        ],
+        [
+          "360",
+          "360"
+        ],
+        [
+          "30",
+          "67"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "40",
+          "67"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "350",
+          "67"
+        ],
+        [
+          "250",
+          "67"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "270",
+          "63.7"
+        ],
+        [
+          "240",
+          "63.7"
+        ],
+        [
+          "110",
+          "70.8"
+        ]
+      ]
+    },
+    {
+      "page": 10,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "60",
+        "70"
+      ],
+      "rows": [
+        [
+          "60",
+          "60"
+        ],
+        [
+          "100",
+          "70"
+        ],
+        [
+          "100",
+          "60"
+        ],
+        [
+          "0",
+          "66"
+        ],
+        [
+          "0",
+          "65"
+        ],
+        [
+          "0",
+          "63"
+        ],
+        [
+          "100",
+          "70.8"
+        ],
+        [
+          "230",
+          "67"
+        ],
+        [
+          "230",
+          "60"
+        ],
+        [
+          "330",
+          "60"
+        ],
+        [
+          "75",
+          "60"
+        ],
+        [
+          "170",
+          "60"
+        ],
+        [
+          "100",
+          "69"
+        ],
+        [
+          "100",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "155",
+          "68"
+        ],
+        [
+          "60",
+          "60"
+        ],
+        [
+          "190",
+          "67"
+        ],
+        [
+          "155",
+          "59"
+        ],
+        [
+          "190",
+          "67"
+        ],
+        [
+          "60",
+          "68"
+        ],
+        [
+          "250",
+          "67"
+        ],
+        [
+          "290",
+          "63"
+        ],
+        [
+          "10",
+          "63.7"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "0",
+          "70"
+        ],
+        [
+          "80",
+          "69.6"
+        ],
+        [
+          "195",
+          "70"
+        ],
+        [
+          "75",
+          "69"
+        ],
+        [
+          "230",
+          "68"
+        ],
+        [
+          "230",
+          "60"
+        ],
+        [
+          "210",
+          "68"
+        ],
+        [
+          "240",
+          "60"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "220",
+          "70.8"
+        ],
+        [
+          "310",
+          "67"
+        ],
+        [
+          "0",
+          "68"
+        ],
+        [
+          "130",
+          "60"
+        ],
+        [
+          "20",
+          "63"
+        ],
+        [
+          "230",
+          "60"
+        ],
+        [
+          "30",
+          "63.7"
+        ],
+        [
+          "120",
+          "63.7"
+        ],
+        [
+          "340",
+          "60"
+        ],
+        [
+          "190",
+          "60"
+        ],
+        [
+          "60",
+          "68"
+        ],
+        [
+          "120",
+          "70"
+        ],
+        [
+          "0",
+          "70.8"
+        ],
+        [
+          "120",
+          "60"
+        ],
+        [
+          "0",
+          "70.8"
+        ],
+        [
+          "0",
+          "60"
+        ],
+        [
+          "250",
+          "63.7"
+        ],
+        [
+          "240",
+          "70.8"
+        ],
+        [
+          "260",
+          "66"
+        ],
+        [
+          "310",
+          "69.6"
+        ],
+        [
+          "310",
+          "63.7"
+        ],
+        [
+          "50",
+          "63.7"
+        ],
+        [
+          "10",
+          "69.6"
+        ],
+        [
+          "240",
+          "65"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "240",
+          "63"
+        ],
+        [
+          "40",
+          "67"
+        ],
+        [
+          "0",
+          "63"
+        ],
+        [
+          "75",
+          "60"
+        ],
+        [
+          "170",
+          "60"
+        ],
+        [
+          "75",
+          "69"
+        ],
+        [
+          "170",
+          "69"
+        ],
+        [
+          "120",
+          "70"
+        ],
+        [
+          "190",
+          "67"
+        ],
+        [
+          "60",
+          "70"
+        ],
+        [
+          "190",
+          "67"
+        ],
+        [
+          "190",
+          "67"
+        ],
+        [
+          "0",
+          "70.8"
+        ],
+        [
+          "60",
+          "69"
+        ],
+        [
+          "330",
+          "69"
+        ],
+        [
+          "240",
+          "63"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "120",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "10",
+          "69.6"
+        ],
+        [
+          "10",
+          "63.7"
+        ],
+        [
+          "10",
+          "63.7"
+        ],
+        [
+          "210",
+          "63.7"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "100",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "100",
+          "69"
+        ],
+        [
+          "240",
+          "69"
+        ],
+        [
+          "250",
+          "67"
+        ]
+      ]
+    },
+    {
+      "page": 12,
+      "bbox": [
+        0,
+        0,
+        612,
+        792
+      ],
+      "engine": "pdfplumber",
+      "confidence": null,
+      "header": [
+        "130",
+        "67"
+      ],
+      "rows": [
+        [
+          "30",
+          "67"
+        ],
+        [
+          "230",
+          "67"
+        ],
+        [
+          "210",
+          "68"
+        ],
+        [
+          "360",
+          "360"
+        ],
+        [
+          "30",
+          "67"
+        ],
+        [
+          "110",
+          "70.8"
+        ],
+        [
+          "250",
+          "63.7"
+        ],
+        [
+          "0",
+          "68"
+        ],
+        [
+          "290",
+          "63"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "350",
+          "67"
+        ],
+        [
+          "120",
+          "63.7"
+        ],
+        [
+          "30",
+          "63.7"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "130",
+          "67"
+        ],
+        [
+          "310",
+          "67"
+        ],
+        [
+          "0",
+          "69"
+        ],
+        [
+          "250",
+          "67"
+        ],
+        [
+          "230",
+          "60"
+        ],
+        [
+          "230",
+          "68"
+        ],
+        [
+          "0",
+          "60"
+        ],
+        [
+          "100",
+          "70.8"
+        ],
+        [
+          "270",
+          "67"
+        ],
+        [
+          "350",
+          "67"
+        ],
+        [
+          "260",
+          "66"
+        ],
+        [
+          "240",
+          "66"
+        ],
+        [
+          "320",
+          "66"
+        ],
+        [
+          "0",
+          "66"
+        ],
+        [
+          "320",
+          "66"
+        ]
+      ]
+    }
+  ]
+}

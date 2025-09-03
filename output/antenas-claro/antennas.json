@@ -1,0 +1,166 @@
+{
+  "file": "antenas-claro.pdf",
+  "count": 20,
+  "records": [
+    {
+      "source_page": 5,
+      "address": "Moreno esquina Córdoba S/N",
+      "city": "SAUCE",
+      "province": "CORRIENTES",
+      "latitude": -30.086138,
+      "longitude": -58.791895
+    },
+    {
+      "source_page": 5,
+      "address": "D.HARDOY Y CHICLANA S/N",
+      "city": "CURUZU CUATIA",
+      "province": "CORRIENTES",
+      "latitude": -29.796389,
+      "longitude": -58.057778
+    },
+    {
+      "source_page": 5,
+      "address": "Calle p niveiro 730",
+      "city": "GOYA",
+      "province": "CORRIENTES",
+      "latitude": -29.150703,
+      "longitude": -59.247809
+    },
+    {
+      "source_page": 5,
+      "address": "s/n",
+      "city": "GOYA",
+      "province": "CORRIENTES",
+      "latitude": -29.139648,
+      "longitude": -59.261661
+    },
+    {
+      "source_page": 5,
+      "address": "Pago largo y B. de Cepeda S/N",
+      "city": "GOYA",
+      "province": "CORRIENTES",
+      "latitude": -29.124208,
+      "longitude": -59.254762
+    },
+    {
+      "source_page": 5,
+      "address": "Ruta Provincial Nro. 27 Km 902",
+      "city": "SANTA LUCIA",
+      "province": "CORRIENTES",
+      "latitude": -28.974181,
+      "longitude": -59.100953
+    },
+    {
+      "source_page": 5,
+      "address": "Calle belgrano 772",
+      "city": "GOBERNADOR JUAN E. MARTINEZ",
+      "province": "CORRIENTES",
+      "latitude": -28.911696,
+      "longitude": -58.936821
+    },
+    {
+      "source_page": 5,
+      "address": "Tacuari 500",
+      "city": "9 DE JULIO",
+      "province": "CORRIENTES",
+      "latitude": -28.838936,
+      "longitude": -58.82137
+    },
+    {
+      "source_page": 5,
+      "address": "Ing Magno Tvethe 700",
+      "city": "PEDRO R. FERNANDEZ",
+      "province": "CORRIENTES",
+      "latitude": -28.75292,
+      "longitude": -58.656
+    },
+    {
+      "source_page": 5,
+      "address": "s/n",
+      "city": "BELLA VISTA",
+      "province": "CORRIENTES",
+      "latitude": -28.520477,
+      "longitude": -59.048652
+    },
+    {
+      "source_page": 5,
+      "address": "Cordoba y 25 de Mayo S/N",
+      "city": "BELLA VISTA",
+      "province": "CORRIENTES",
+      "latitude": -28.512372,
+      "longitude": -59.044944
+    },
+    {
+      "source_page": 5,
+      "address": "Ruta Nacional 12 Km 940",
+      "city": "SALADAS",
+      "province": "CORRIENTES",
+      "latitude": -28.246114,
+      "longitude": -58.703985
+    },
+    {
+      "source_page": 5,
+      "address": "Sarmiento e/Av J.Romero y Aviad.Argüello S/N",
+      "city": "SAN LUIS DEL PALMAR",
+      "province": "CORRIENTES",
+      "latitude": -27.510301,
+      "longitude": -58.556233
+    },
+    {
+      "source_page": 5,
+      "address": "Moreno Acuna 1100",
+      "city": "LAGUNA BRAVA",
+      "province": "CORRIENTES",
+      "latitude": -27.499811,
+      "longitude": -58.719477
+    },
+    {
+      "source_page": 5,
+      "address": "RP 5 (intersección calle César Alvarez) Km 1",
+      "city": "LAGUNA BRAVA",
+      "province": "CORRIENTES",
+      "latitude": -27.486515,
+      "longitude": -58.770954
+    },
+    {
+      "source_page": 5,
+      "address": "s/n",
+      "city": "CORRIENTES",
+      "province": "CORRIENTES",
+      "latitude": -27.480311,
+      "longitude": -58.796037
+    },
+    {
+      "source_page": 5,
+      "address": "Perú esquina Bolivar S/N",
+      "city": "CORRIENTES",
+      "province": "CORRIENTES",
+      "latitude": -27.472235,
+      "longitude": -58.821673
+    },
+    {
+      "source_page": 5,
+      "address": "Av. Gobernador Ruiz Esq. Estados Unidos S/N",
+      "city": "CORRIENTES",
+      "province": "CORRIENTES",
+      "latitude": -27.467838,
+      "longitude": -58.812733
+    },
+    {
+      "source_page": 5,
+      "address": "Calle Gob. Rolon y Pampin S/N",
+      "city": "CORRIENTES",
+      "province": "CORRIENTES",
+      "latitude": -27.461896,
+      "longitude": -58.822407
+    },
+    {
+      "source_page": 5,
+      "address": "Avenida Lavalle 755",
+      "city": "RESISTENCIA",
+      "province": "CHACO",
+      "latitude": -27.439396,
+      "longitude": -58.986537
+    }
+  ]
+}

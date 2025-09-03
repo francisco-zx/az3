@@ -1,0 +1,35 @@
+source_page,cell_id,latitude,longitude,azimuth_deg,horizontal_aperture_deg,vertical_aperture_deg,coverage_radius_km,signal_strength_dbm,address,city,province
+1,w9djulh11,-28.84185,-58.833636,60.0,67.0,15.0,8.18,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulh12,-28.84185,-58.833636,180.0,67.0,15.0,8.18,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulh13,-28.84185,-58.833636,300.0,67.0,15.0,8.18,,santa fe 1,9 de julio - cr,corrientes
+1,w9djull11,-28.84185,-58.833636,60.0,61.0,5.0,4.94,,santa fe 1,9 de julio - cr,corrientes
+1,w9djull12,-28.84185,-58.833636,180.0,61.0,5.0,4.94,,santa fe 1,9 de julio - cr,corrientes
+1,w9djull13,-28.84185,-58.833636,300.0,61.0,5.0,4.94,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulm11,-28.84185,-58.833636,60.0,63.0,6.0,4.94,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulm12,-28.84185,-58.833636,180.0,63.0,6.0,4.94,,santa fe 1,9 de julio - cr,corrientes
+1,w9djuln11,-28.84185,-58.833636,62.0,66.0,15.0,7.58,,santa fe 1,9 de julio - cr,corrientes
+1,w9djuln12,-28.84185,-58.833636,182.0,66.0,15.0,7.58,,santa fe 1,9 de julio - cr,corrientes
+1,w9djuln13,-28.84185,-58.833636,302.0,66.0,15.0,7.58,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulo11,-28.84185,-58.833636,0.0,67.0,15.0,8.18,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulo12,-28.84185,-58.833636,0.0,67.0,15.0,8.18,,santa fe 1,9 de julio - cr,corrientes
+1,w9djulo13,-28.84185,-58.833636,0.0,67.0,15.0,8.18,,santa fe 1,9 de julio - cr,corrientes
+1,wchvrrh13,-29.022222,-58.497222,300.0,67.0,15.0,8.02,,rn 123 52000,chavarria,corrientes
+1,wchvrrn13,-29.022222,-58.497222,300.0,66.0,15.0,8.49,,rn 123 52000,chavarria,corrientes
+1,wchvrro13,-29.022222,-58.497222,300.0,67.0,15.0,8.02,,rn 123 52000,chavarria,corrientes
+1,wchvrrv13,-29.022222,-58.497222,300.0,67.0,15.0,8.02,,rn 123 52000,chavarria,corrientes
+1,,-28.758327,-59.011971,120.0,67.0,15.0,8.16,,wdsmchh1213/06/2024 zona rural 1,desmochado,corrientes
+1,wdsmchl12,-28.758327,-59.011971,120.0,61.0,5.0,5.18,,zona rural 1,desmochado,corrientes
+1,,-28.758327,-59.011971,120.0,63.0,6.0,5.03,,wdsmchm1213/06/2024 zona rural 1,desmochado,corrientes
+1,,-28.758327,-59.011971,122.0,68.0,11.0,8.43,,wdsmchn1213/06/2024 zona rural 1,desmochado,corrientes
+1,,-28.758327,-59.011971,120.0,67.0,15.0,8.16,,wdsmcho1213/06/2024 zona rural 1,desmochado,corrientes
+1,,-28.911665,-58.936814,2.0,68.0,11.0,6.89,,wgrmrzh1113/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,,-28.911665,-58.936814,122.0,68.0,11.0,7.9,,wgrmrzh1213/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,wgrmrzl12,-28.911665,-58.936814,120.0,61.0,5.0,4.95,,belgrano 665,gbdor juan e martinez,corrientes
+1,,-28.911665,-58.936814,120.0,61.0,5.0,4.95,,wgrmrzm1213/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,,-28.911665,-58.936814,2.0,68.0,11.0,6.89,,wgrmrzn1113/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,,-28.911665,-58.936814,122.0,68.0,11.0,7.9,,wgrmrzn1213/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,,-28.911665,-58.936814,2.0,68.0,11.0,6.89,,wgrmrzo1113/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,,-28.911665,-58.936814,122.0,68.0,11.0,7.9,,wgrmrzo1213/06/2024 belgrano 665,gbdor juan e martinez,corrientes
+1,wprfrnh13,-28.753951,-58.65021,240.0,67.0,15.0,8.46,,elpidio gonzales 1,manuel florencio,mantilla corrientes
+1,wprfrnl13,-28.753951,-58.65021,240.0,61.0,5.0,5.21,,elpidio gonzales 1,manuel florencio,mantilla corrientes
+1,,-28.753951,-58.65021,240.0,63.0,6.0,5.21,,wprfrnm1313/06/2024 elpidio gonzales 1,manuel florencio,mantilla corrientes

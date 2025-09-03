@@ -7,3 +7,5 @@ soundfile
 scikit-learn
 scipy
 speechbrain
+pdfplumber
+pandas
